@@ -1,5 +1,5 @@
 exports.signup = (req, res) => {
   res.json({
-    data: "you hit signup endpoint 2020 ",
+    data: "you hit signup endpoint  ",
   });
 };
